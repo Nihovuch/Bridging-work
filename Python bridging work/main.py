@@ -1,3 +1,3 @@
-num1 = int(input("Write a radius of a circle to get an area of it"))
+num1 = int(input("Enter the radius of the circle: "))
 area = 3.14 * num1 * num1
-print(area)
+print("The area of the circle with radius:", num1, "is", area)
